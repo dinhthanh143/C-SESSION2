@@ -1,13 +1,13 @@
 #include<stdio.h>
 
 int main(){
-  int name;
+  int age;
   //kieu du lieu so nguyen
   
-  float age;
+  float height;
   //kieu du lieu so thuc
   
-  double place;
+  double address;
   //kieu du lieu so thuc, do chinh xac cao hon
   
   char a;
